@@ -1,0 +1,21 @@
+<%- partial('_partial/head') %>
+
+<body>
+
+  <%- partial('_partial/header-post') %>
+
+  <div id="container">
+    <div id="wrap">
+            
+      <div id="content" class="outer">
+          <section id="main" style="float:none;"><%- body %></section>
+      </div>
+      <%- partial('_partial/footer') %>
+    </div>
+    <%- partial('_partial/after-footer') %>
+  </div>
+
+  <a id="rocket" href="#top" class=""></a>
+  <script type="text/javascript" src="/js/totop.js" async=""></script>
+</body>
+</html>
