@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Politics
+title: Maltese Politics
 subtitle:
 # Appears below title:
-description: Unbiased, curated content
-author: Justin Calleja & Michael Camilleri
-language:
+description: Unbiased content
+author:
+language: en
 timezone:
 
 # URL
