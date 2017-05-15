@@ -1,7 +1,8 @@
 ---
 title: PN Lorem ipsum 1
 date: 2017-05-11 17:05:13
-tags: lorem-ipsum
+tags: [corruption, plans]
+categories: [PN]
 ---
 
 Sit dicta ducimus harum blanditiis eos? Provident placeat voluptates quasi aspernatur quis molestias ex iste illum fugit dolor aut est amet quasi officia, ipsam sapiente quis. Autem provident obcaecati voluptatibus!

@@ -1,7 +1,8 @@
 ---
 title: PL Lorem ipsum 1
 date: 2017-05-11 17:05:13
-tags: lorem-ipsum
+tags: [environment, plans]
+categories: [PL]
 ---
 
 Sit dicta ducimus harum blanditiis eos? Provident placeat voluptates quasi aspernatur quis molestias ex iste illum fugit dolor aut est amet quasi officia, ipsam sapiente quis. Autem provident obcaecati voluptatibus!
